@@ -18,5 +18,5 @@ if (rataRata >= 90 && rataRata <= 100) {
   grade = "E";
 }
 
-console.log(rataRata);
-console.log(grade);
+console.log("Rata-rata : " + rataRata);
+console.log("grade : " + grade);
